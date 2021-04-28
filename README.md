@@ -6,7 +6,7 @@ Inspired by EDSR and FFDNet, BRNet first uses a mean shift module (Mean Shift) t
 
 During the training phase, they crop the given compressed frames to 64×64 and feed them to the network with the batch size of 64. The Adam algorithm is adopted to optimize the L1 loss, and learning rate is set to 10−4. The model is trained for 100,000 epochs.
 
- ![BRNet](.\BRNet.png)
+ ![BRNet](./BRNet.png)
 
 
 
