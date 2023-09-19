@@ -18,3 +18,6 @@ To obtain the restoration results, L_path and E_path can be modified  in test.py
 python test.py
 ```
 
+### Related Work
+
+This work is related to NTIRE2021. For more information, please visit https://github.com/RenYang-home/NTIRE21_VEnh.
